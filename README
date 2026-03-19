@@ -1,0 +1,17 @@
+# Tennis Serve AI
+
+AI-based tennis serve analysis project using pose detection and video processing.
+
+## Project structure
+- `src/`: main scripts
+- `notebooks/`: exploration and modeling
+- `outputs/`: generated images and models
+- `report/`: notes and research outline
+
+## Main features
+- Pose detection from tennis video
+- Video clipping and preprocessing
+- Exploratory analysis in notebooks
+
+## Author
+Gonzalo Tano
