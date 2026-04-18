@@ -1,3 +1,9 @@
 venv/
 __pycache__/
 *.pyc
+venv/
+_pycache_/
+.claude/
+zencoder/
+zenflow/
+.env
