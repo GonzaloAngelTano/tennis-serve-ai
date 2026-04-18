@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(file /c/Users/gonza/Downloads/tennis_serve_ai_project/src/* /c/Users/gonza/Downloads/tennis_serve_ai_project/notebooks/*)",
-      "Bash(python -c \"import cv2, mediapipe, pandas, numpy, matplotlib, sklearn; print\\('All imports OK'\\)\")"
-    ]
-  }
-}
