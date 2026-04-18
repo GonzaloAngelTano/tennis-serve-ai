@@ -1,10 +1,18 @@
-import cv2
-import mediapipe as mp 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt 
-import sklearn
+"""
+test_video.py – Quick dependency check.
 
-print("Everything is working.")
-print("OpenCV version:", cv2.__version__)
-print("Mediapipe imported successfully.")
+Run this script to verify that all required packages are installed correctly
+before running the main analysis pipeline.
+"""
+
+import cv2
+import mediapipe as mp
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+
+print("All dependencies OK.")
+print(f"  OpenCV    : {cv2.__version__}")
+print(f"  MediaPipe : {mp.__version__}")
+print(f"  NumPy     : {np.__version__}")
+print(f"  Pandas    : {pd.__version__}")
