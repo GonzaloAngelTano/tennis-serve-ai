@@ -1,0 +1,4 @@
+Metric,Djokovic_mean,Djokovic_std,Federer_mean,Federer_std,Amateur_mean,Amateur_std
+elbow_angle,173.16,6.71,163.29,34.02,165.78,0.3
+knee_angle,166.73,11.98,171.93,7.48,145.01,4.44
+shoulder_angle,137.64,59.88,140.55,47.83,128.56,16.49
